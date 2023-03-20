@@ -2,7 +2,7 @@
 
 #### Overview
 
-Easy-to-use timer designed for Untiy
+Easy-to-use timer and small code designed for Untiy
 
 ------
 
