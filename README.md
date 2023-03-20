@@ -38,3 +38,8 @@ Easy-to-use timer designed for Untiy
   ```
 
 * **Refer to StartDemo.cs for more details**
+
+------
+
+#### About Promise
+[Primise4CSharp](https://github.com/Wilson403/Primise4CSharp)
