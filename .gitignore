@@ -58,7 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-/UnityTicker/Library
-/UnityTicker/Temp
-/UnityTicker/Logs
-/UnityTicker/Packages
+/UnityTimer/Library
+/UnityTimer/Temp
+/UnityTimer/Logs
+/UnityTimer/Packages
+/UnityTimer/Temp
+/UnityTimer/Library
+/UnityTimer/Logs
+/UnityTimer/obj
+/UnityTimer/Packages
